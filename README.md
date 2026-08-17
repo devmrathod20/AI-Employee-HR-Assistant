@@ -121,3 +121,14 @@ The actual n8n workflow is kept private and can be demonstrated live.
 **Completed — Interview Demo Ready**
 
 This project demonstrates practical experience with AI automation, LLM integration, workflow orchestration, database operations, API integrations, and business-process automation.
+
+## Project Screenshots
+
+### n8n Workflow
+![n8n Workflow](screenshot/workflow.png)
+
+### Telegram Demo
+![Telegram Demo](screenshot/telegram-demo.png)
+
+### Supabase Database
+![Supabase Database](screenshot/supabase.png)
